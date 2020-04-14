@@ -1,4 +1,4 @@
-# fullstack
+# Projeto para aprender Vue.js + Node + GraphQL
 
 ## Project setup
 ```
